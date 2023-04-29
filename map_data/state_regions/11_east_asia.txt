@@ -52,7 +52,7 @@ STATE_TIANSHAN = {
     }
     resource = {
         type = bg_natural_gas_well
-        undiscovered_amount = 5
+        undiscovered_amount = 65
     }
     capped_resources = {
         bg_copper_mining = 15
@@ -76,6 +76,7 @@ STATE_SICHUAN = {
         bg_copper_mining = 40
         bg_logging = 23
         bg_bauxite_mining = 5
+		
     }
     resource = {
         type = bg_natural_gas_well
@@ -109,7 +110,7 @@ STATE_YUNNAN = {
     }
     capped_resources = {
         bg_coal_mining = 40
-        bg_iron_mining = 60
+        bg_iron_mining = 300
         bg_copper_mining = 42
         bg_logging = 17
         bg_bauxite_mining = 16
@@ -298,6 +299,7 @@ STATE_SHENGJING = {
         bg_lead_mining = 15
         bg_logging = 2
         bg_fishing = 2
+		bg_iron_mining = 100
     }
     naval_exit_id = 3057
 }
@@ -396,7 +398,7 @@ STATE_SHANXI = {
     arable_land = 372
     arable_resources = { bg_wheat_farms bg_livestock_ranches bg_tea_plantations bg_tobacco_plantations }
     capped_resources = {
-        bg_coal_mining = 116
+        bg_coal_mining = 200
         bg_iron_mining = 96
         bg_phosphorus_mining = 48
         bg_logging = 7
@@ -514,6 +516,10 @@ STATE_CHONGQING = {
         bg_copper_mining = 22
         bg_logging = 9
         bg_bauxite_mining = 18
+    }
+	resource = {
+        type = bg_natural_gas_well
+        undiscovered_amount = 50
     }
 }
 
@@ -676,7 +682,7 @@ STATE_ZHILI = {
     }
     capped_resources = {
         bg_coal_mining = 32
-        bg_iron_mining = 39
+        bg_iron_mining = 200
         bg_phosphorus_mining = 36
         bg_copper_mining = 28
         bg_logging = 9
@@ -880,7 +886,7 @@ STATE_SHANDONG = {
         bg_phosphorus_mining = 32
         bg_logging = 6
         bg_fishing = 15
-        bg_bauxite_mining = 4
+        bg_bauxite_mining = 100
     }
     naval_exit_id = 3057
 }
@@ -1081,6 +1087,7 @@ STATE_MEKONG = {
         bg_logging = 20
         bg_fishing = 16
         bg_rubber = 8
+		bg_bauxite_mining = 370
     }
     naval_exit_id = 3053
 }

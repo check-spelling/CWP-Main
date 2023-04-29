@@ -358,7 +358,7 @@ STATE_GUINEA = {
         bg_logging = 13
         bg_fishing = 7
         bg_rubber = 22
-        bg_bauxite_mining = 30
+        bg_bauxite_mining = 740
     }
     naval_exit_id = 3088
 }
@@ -1396,6 +1396,10 @@ STATE_NORTHERN_CAPE = {
     }
     resource = {
         type = bg_uranium_mining
+        undiscovered_amount = 40
+    }
+	resource = {
+        type = bg_natural_gas_well
         undiscovered_amount = 40
     }
 }

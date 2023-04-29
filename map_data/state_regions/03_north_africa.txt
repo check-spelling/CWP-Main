@@ -410,7 +410,7 @@ STATE_CONSTANTINE = {
     }
     resource = {
         type = bg_natural_gas_well
-        undiscovered_amount = 53
+        undiscovered_amount = 70
     }
     resource = {
         type = bg_oil_rig

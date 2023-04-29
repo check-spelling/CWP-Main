@@ -25,7 +25,7 @@
     }
     capped_resources = {
         bg_coal_mining = 84
-        bg_iron_mining = 96
+        bg_iron_mining = 300
         bg_lead_mining = 81
         bg_copper_mining = 52
         bg_logging = 13
@@ -49,7 +49,7 @@ STATE_TOMSK = {
     }
     capped_resources = {
         bg_coal_mining = 44
-        bg_iron_mining = 27
+        bg_iron_mining = 150
         bg_logging = 13
     }
 }
@@ -147,6 +147,7 @@ STATE_OB = {
         type = bg_natural_gas_well
         undiscovered_amount = 372
     }
+  
 }
 
 STATE_NENETSIA = {
@@ -275,7 +276,7 @@ STATE_TRANS_BAIKAL = {
     arable_resources = { bg_rye_farms bg_livestock_ranches }
     capped_resources = {
         bg_coal_mining = 80
-        bg_iron_mining = 33
+        bg_iron_mining = 100
         bg_phosphorus_mining = 44
         bg_copper_mining = 35
         bg_logging = 13
@@ -303,7 +304,7 @@ STATE_IRKUTSK = {
     arable_resources = { bg_rye_farms bg_livestock_ranches }
     capped_resources = {
         bg_coal_mining = 80
-        bg_iron_mining = 36
+        bg_iron_mining = 100
         bg_copper_mining = 42
         bg_logging = 13
         bg_bauxite_mining = 22
