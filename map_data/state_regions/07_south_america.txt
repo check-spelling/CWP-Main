@@ -1077,6 +1077,11 @@ STATE_RIO_GRANDE_DO_SUL = {
         bg_copper_mining = 10
         bg_logging = 11
         bg_fishing = 6
+		
+    }
+	   resource = {
+        type = bg_natural_gas_well
+        undiscovered_amount = 45
     }
     naval_exit_id = 3064
 }
