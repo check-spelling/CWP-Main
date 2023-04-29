@@ -907,7 +907,7 @@ STATE_SASKATCHEWAN = {
     }
     resource = {
         type = bg_natural_gas_well
-        undiscovered_amount = 6
+        undiscovered_amount = 40
     }
 }
 
@@ -1239,7 +1239,7 @@ STATE_RIO_GRANDE = {
     }
     resource = {
         type = bg_natural_gas_well
-        undiscovered_amount = 61
+        undiscovered_amount = 70
     }
     resource = {
         type = bg_oil_rig

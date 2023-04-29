@@ -677,7 +677,7 @@ STATE_PATAGONIA = {
     }
     resource = {
         type = bg_natural_gas_well
-        undiscovered_amount = 57
+        undiscovered_amount = 137
     }
     naval_exit_id = 3066
 }
@@ -859,10 +859,6 @@ STATE_ARAUCANIA = {
         bg_logging = 14
         bg_fishing = 7
         bg_gold_mining = 4
-    }
-    resource = {
-        type = bg_natural_gas_well
-        undiscovered_amount = 79
     }
     resource = {
         type = bg_oil_rig

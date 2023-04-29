@@ -1398,6 +1398,10 @@ STATE_NORTHERN_CAPE = {
         type = bg_uranium_mining
         undiscovered_amount = 40
     }
+	resource = {
+        type = bg_natural_gas_well
+        undiscovered_amount = 40
+    }
 }
 
 STATE_BOTSWANA = {

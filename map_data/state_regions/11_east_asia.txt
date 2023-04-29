@@ -52,7 +52,7 @@ STATE_TIANSHAN = {
     }
     resource = {
         type = bg_natural_gas_well
-        undiscovered_amount = 5
+        undiscovered_amount = 65
     }
     capped_resources = {
         bg_copper_mining = 15
@@ -516,6 +516,10 @@ STATE_CHONGQING = {
         bg_copper_mining = 22
         bg_logging = 9
         bg_bauxite_mining = 18
+    }
+	resource = {
+        type = bg_natural_gas_well
+        undiscovered_amount = 50
     }
 }
 
