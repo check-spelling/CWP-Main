@@ -38,14 +38,14 @@ law_autocracy = {
 			}
 		}
 	}
-	ai_enact_weight_modifier = { #Petitions
+	ai_enact_weight_modifier = {
+		#Petitions
 		value = 0
-		
 		if = {
-			limit = { 
+			limit = {
 				has_journal_entry = je_government_petition
 				has_variable = desired_law_var
-                scope:law = var:desired_law_var
+				scope:law = var:desired_law_var
 			}
 			add = 750
 		}
@@ -90,23 +90,24 @@ law_oligarchy = {
 			}
 		}
 	}
-	ai_enact_weight_modifier = { #Petitions
+	ai_enact_weight_modifier = {
+		#Petitions
 		value = 0
-		
 		if = {
-			limit = { 
+			limit = {
 				has_journal_entry = je_government_petition
 				has_variable = desired_law_var
-                scope:law = var:desired_law_var
+				scope:law = var:desired_law_var
 			}
 			add = 750
 		}
 	}
 }
 
-law_one_party_state = { # One party state
+law_one_party_state = {
+	# One party state
 	group = lawgroup_distribution_of_power
-	icon = "gfx/interface/icons/law_icons/representative_democracy.dds"
+	icon = "gfx/interface/icons/law_icons/one_party_state.dds"
 	progressiveness = 0
 	can_enact = {
 		OR = {
@@ -240,14 +241,14 @@ law_one_party_state = { # One party state
 			}
 		}
 	}
-	ai_enact_weight_modifier = { #Petitions
+	ai_enact_weight_modifier = {
+		#Petitions
 		value = 0
-		
 		if = {
-			limit = { 
+			limit = {
 				has_journal_entry = je_government_petition
 				has_variable = desired_law_var
-                scope:law = var:desired_law_var
+				scope:law = var:desired_law_var
 			}
 			add = 750
 		}
@@ -256,7 +257,7 @@ law_one_party_state = { # One party state
 
 law_representative_democracy = {
 	group = lawgroup_distribution_of_power
-	icon = "gfx/interface/icons/law_icons/census_voting.dds"
+	icon = "gfx/interface/icons/law_icons/representative_democracy.dds"
 	progressiveness = 50
 	unlocking_technologies = {
 		pre_war_ideological_thought
@@ -303,14 +304,14 @@ law_representative_democracy = {
 			}
 		}
 	}
-	ai_enact_weight_modifier = { #Petitions
+	ai_enact_weight_modifier = {
+		#Petitions
 		value = 0
-		
 		if = {
-			limit = { 
+			limit = {
 				has_journal_entry = je_government_petition
 				has_variable = desired_law_var
-                scope:law = var:desired_law_var
+				scope:law = var:desired_law_var
 			}
 			add = 750
 		}
@@ -319,7 +320,7 @@ law_representative_democracy = {
 
 law_consensus_democracy = {
 	group = lawgroup_distribution_of_power
-	icon = "gfx/interface/icons/law_icons/universal_suffrage.dds"
+	icon = "gfx/interface/icons/law_icons/consensus_democracy.dds"
 	progressiveness = 100
 	unlocking_technologies = {
 		civil_rights
@@ -378,14 +379,14 @@ law_consensus_democracy = {
 			}
 		}
 	}
-	ai_enact_weight_modifier = { #Petitions
+	ai_enact_weight_modifier = {
+		#Petitions
 		value = 0
-		
 		if = {
-			limit = { 
+			limit = {
 				has_journal_entry = je_government_petition
 				has_variable = desired_law_var
-                scope:law = var:desired_law_var
+				scope:law = var:desired_law_var
 			}
 			add = 750
 		}
@@ -435,14 +436,14 @@ law_direct_democracy = {
 			}
 		}
 	}
-	ai_enact_weight_modifier = { #Petitions
+	ai_enact_weight_modifier = {
+		#Petitions
 		value = 0
-		
 		if = {
-			limit = { 
+			limit = {
 				has_journal_entry = je_government_petition
 				has_variable = desired_law_var
-                scope:law = var:desired_law_var
+				scope:law = var:desired_law_var
 			}
 			add = 750
 		}
