@@ -935,6 +935,7 @@ indian_partition.50 = { # Indian Constitution
 		add_primary_culture = cu:bihari
 		add_primary_culture = cu:rajput
 		add_primary_culture = cu:kashmiri
+		add_primary_culture = cu:panjabi
 		add_primary_culture = cu:nepali
 		add_primary_culture = cu:bengali
 		add_primary_culture = cu:tani
@@ -946,14 +947,38 @@ indian_partition.50 = { # Indian Constitution
 		add_primary_culture = cu:malayalam
 		add_primary_culture = cu:tamil
 		# Hehehehoo
-		remove_primary_culture = cu:british
+		remove_primary_culture = cu:english
 		create_character = {
 			ig_leader = yes
-			interest_group = ig:ig_conglomerates
+			interest_group = ig:ig_urbanists
 		}
 		create_character = {
 			ig_leader = yes
 			ruler = yes
+			interest_group = ig:ig_securocrats
+		}
+		create_character = {
+			ig_leader = yes
+			interest_group = ig:ig_ruralists
+		}
+		create_character = {
+			ig_leader = yes
+			interest_group = ig:ig_patriots
+		}
+		create_character = {
+			ig_leader = yes
+			interest_group = ig:ig_laborists
+		}
+		create_character = {
+			ig_leader = yes
+			interest_group = ig:ig_moralists
+		}
+		create_character = {
+			ig_leader = yes
+			interest_group = ig:ig_intelligentsia
+		}
+		create_character = {
+			ig_leader = yes
 			interest_group = ig:ig_elites
 		}
 		create_character = {
@@ -962,25 +987,13 @@ indian_partition.50 = { # Indian Constitution
 		}
 		create_character = {
 			ig_leader = yes
-			interest_group = ig:ig_intellectuals
+			interest_group = ig:ig_capitalists
 		}
 		create_character = {
 			ig_leader = yes
-			interest_group = ig:ig_rural_folk
+			interest_group = ig:ig_bureaucrats
 		}
-		create_character = {
-			ig_leader = yes
-			interest_group = ig:ig_socialists
-		}
-		create_character = {
-			ig_leader = yes
-			interest_group = ig:ig_armed_forces
-		}
-		create_character = {
-			ig_leader = yes
-			interest_group = ig:ig_devout
-		}
-	}
+}
 	option = {
 		name = indian_partition.50.a
 		ai_chance = {
@@ -1018,6 +1031,8 @@ indian_partition.80 = { # Pakistan Formation
 		}
 
 		set_state_religion = rel:sunni
+		add_primary_culture = cu:kanauji
+		add_primary_culture = cu:panjabi
 
 		ai_chance = {
 			base = 100
