@@ -1,6 +1,6 @@
-###### CUSTOM
+###### custom
 fontfiles = {
-	name = "BebasNeue"
+	name = "bebasneue"
 	always_load = yes
 	group = {
 		languages = {
@@ -14,11 +14,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Regular.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/MaruBuri/MaruBuri-SemiBold.ttf"			# MaruBuri is used for EBGaramond in Korean
-			"fonts/NotoSerif/NotoSerifSC-Regular.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/NotoSerif/NotoSerif-Regular.ttf"
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-regular.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/maruburi/maruburi-semibold.ttf"			# maruburi is used for ebgaramond in korean
+			"fonts/notoserif/notoserifsc-regular.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/notoserif/notoserif-regular.ttf"
 		}
 	}
 	group = {
@@ -26,10 +26,10 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-            "fonts/NotoSans/NotoSansJP-Black.otf"
-            "fonts/NotoSans/NotoSansSC-Black.otf"
-            "fonts/SB-Aggro/SB-Aggro-B.ttf"
-            "fonts/NotoSans/NotoSans-Bold.ttf"
+            "fonts/notosans/notosansjp-black.otf"
+            "fonts/notosans/notosanssc-black.otf"
+            "fonts/sb-aggro/sb-aggro-b.ttf"
+            "fonts/notosans/notosans-bold.ttf"
 		}
 	}
 	group = {
@@ -37,11 +37,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/MaruBuri/MaruBuri-SemiBold.ttf"			# MaruBuri is used for EBGaramond in Korean
-			"fonts/Zpixel/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Regular.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/NotoSerif/NotoSerifSC-Regular.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/NotoSerif/NotoSerif-Regular.ttf"
+			"fonts/maruburi/maruburi-semibold.ttf"			# maruburi is used for ebgaramond in korean
+			"fonts/zpixel/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-regular.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/notoserif/notoserifsc-regular.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/notoserif/notoserif-regular.ttf"
 		}
 	}
 	group = {
@@ -49,17 +49,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSerif/NotoSerifSC-Regular.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Regular.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/MaruBuri/MaruBuri-SemiBold.ttf"			# MaruBuri is used for EBGaramond in Korean
-			"fonts/NotoSerif/NotoSerif-Regular.ttf"
+			"fonts/notoserif/notoserifsc-regular.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-regular.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/maruburi/maruburi-semibold.ttf"			# maruburi is used for ebgaramond in korean
+			"fonts/notoserif/notoserif-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "Libre_Baskerville-Bold"
+	name = "libre_baskerville-bold"
 	always_load = yes
 	group = {
 		languages = {
@@ -73,11 +73,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Bold.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/MaruBuri/MaruBuri-Bold.ttf"			# MaruBuri is used for EBGaramond in Korean
-			"fonts/NotoSerif/NotoSerifSC-Bold.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/NotoSerif/NotoSerif-Bold.ttf"
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-bold.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/maruburi/maruburi-bold.ttf"			# maruburi is used for ebgaramond in korean
+			"fonts/notoserif/notoserifsc-bold.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/notoserif/notoserif-bold.ttf"
 		}
 	}
 	group = {
@@ -85,10 +85,10 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-            "fonts/NotoSans/NotoSansJP-Black.otf"
-            "fonts/NotoSans/NotoSansSC-Black.otf"
-            "fonts/SB-Aggro/SB-Aggro-B.ttf"
-            "fonts/NotoSans/NotoSans-Bold.ttf"
+            "fonts/notosans/notosansjp-black.otf"
+            "fonts/notosans/notosanssc-black.otf"
+            "fonts/sb-aggro/sb-aggro-b.ttf"
+            "fonts/notosans/notosans-bold.ttf"
 		}
 	}
 	group = {
@@ -96,11 +96,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/MaruBuri/MaruBuri-Bold.ttf"			# MaruBuri is used for EBGaramond in Korean
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Bold.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/NotoSerif/NotoSerifSC-Bold.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/NotoSerif/NotoSerif-Bold.ttf"
+			"fonts/maruburi/maruburi-bold.ttf"			# maruburi is used for ebgaramond in korean
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-bold.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/notoserif/notoserifsc-bold.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/notoserif/notoserif-bold.ttf"
 		}
 	}
 	group = {
@@ -108,17 +108,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSerif/NotoSerifSC-Bold.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Bold.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/MaruBuri/MaruBuri-Bold.ttf"			# MaruBuri is used for EBGaramond in Korean
-			"fonts/NotoSerif/NotoSerif-Bold.ttf"
+			"fonts/notoserif/notoserifsc-bold.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-bold.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/maruburi/maruburi-bold.ttf"			# maruburi is used for ebgaramond in korean
+			"fonts/notoserif/notoserif-bold.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "Libre_Baskerville-Italic"
+	name = "libre_baskerville-italic"
 	always_load = yes
 	group = {
 		languages = {
@@ -132,11 +132,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Light.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/NotoSerif/NotoSansKR-Medium.otf"			# Noto Serif is used for EBGaramond (italic) in Korean
-			"fonts/NotoSerif/NotoSerifSC-Light.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/NotoSerif/NotoSerif-Italic.ttf"
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-light.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/notoserif/notosanskr-medium.otf"			# noto serif is used for ebgaramond (italic) in korean
+			"fonts/notoserif/notoserifsc-light.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/notoserif/notoserif-italic.ttf"
 		}
 	}
 	group = {
@@ -144,10 +144,10 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-            "fonts/NotoSans/NotoSansJP-Black.otf"
-            "fonts/NotoSans/NotoSansSC-Black.otf"
-            "fonts/SB-Aggro/SB-Aggro-B.ttf"
-            "fonts/NotoSans/NotoSans-Bold.ttf"
+            "fonts/notosans/notosansjp-black.otf"
+            "fonts/notosans/notosanssc-black.otf"
+            "fonts/sb-aggro/sb-aggro-b.ttf"
+            "fonts/notosans/notosans-bold.ttf"
 		}
 	}
 	group = {
@@ -155,11 +155,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSerif/NotoSansKR-Medium.otf"			# Noto Serif is used for EBGaramond (italic) in Korean
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Light.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/NotoSerif/NotoSerifSC-Light.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/NotoSerif/NotoSerif-Italic.ttf"
+			"fonts/notoserif/notosanskr-medium.otf"			# noto serif is used for ebgaramond (italic) in korean
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-light.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/notoserif/notoserifsc-light.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/notoserif/notoserif-italic.ttf"
 		}
 	}
 	group = {
@@ -167,11 +167,11 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSerif/NotoSerifSC-Light.otf"			# Noto Serif is used for EBGaramond in Simplified Chinese
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSerif/NotoSerifJP-Light.otf"			# Noto Serif is used for EBGaramond in Japanese
-			"fonts/NotoSerif/NotoSansKR-Medium.otf"			# Noto Serif is used for EBGaramond (italic) in Korean
-			"fonts/NotoSerif/NotoSerif-Italic.ttf"
+			"fonts/notoserif/notoserifsc-light.otf"			# noto serif is used for ebgaramond in simplified chinese
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notoserif/notoserifjp-light.otf"			# noto serif is used for ebgaramond in japanese
+			"fonts/notoserif/notosanskr-medium.otf"			# noto serif is used for ebgaramond (italic) in korean
+			"fonts/notoserif/notoserif-italic.ttf"
 		}
 	}
 }
@@ -183,14 +183,14 @@ font = {
 	name = "PlayfairDisplay"
 	fontstyle = {
 		style = regular
-		fontfiles = "BebasNeue"
+		fontfiles = "bebasneue"
 	}
 	fontstyle = {
 		style = bold
-		fontfiles = "BebasNeue"
+		fontfiles = "bebasneue"
 	}
 	fontstyle = {
 		style = italic
-		fontfiles = "BebasNeue"
+		fontfiles = "bebasneue"
 	}
 }

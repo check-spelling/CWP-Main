@@ -1,6 +1,6 @@
 ﻿##### CWP
 precipice = {
-	music = "file:/music/CWP/precipice.wav"
+	music = "file:/music/cwp/precipice.wav"
 	name = "01_precipice"
 	pause_factor = 50
 	mood = yes
@@ -8,7 +8,7 @@ precipice = {
 }
 
 dark_is_the_night = {
-	music = "file:/music/CWP/dark_is_the_night.ogg"
+	music = "file:/music/cwp/dark_is_the_night.ogg"
 	name = "02_dark_is_the_night"
 	pause_factor = 50
 	mood = yes
@@ -16,7 +16,7 @@ dark_is_the_night = {
 }
 
 new_dawn = {
-	music = "file:/music/CWP/new_dawn.wav"
+	music = "file:/music/cwp/new_dawn.wav"
 	name = "03_new_dawn"
 	pause_factor = 50
 	mood = yes

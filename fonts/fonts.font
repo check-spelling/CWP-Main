@@ -1,6 +1,6 @@
-### Open Sans (override cw font to support more languages)
+### open sans (override cw font to support more languages)
 fontfiles = {
-	name = "FUTURA"
+	name = "futura"
 	always_load = yes
 	group = {
 		languages = {
@@ -14,11 +14,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/futura/futur.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/futura/futur.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -26,13 +26,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/futura/futur.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/futura/futur.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -40,11 +40,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -52,17 +52,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "FUTURA-BOLD"
+	name = "futura-bold"
 	always_load = yes
 	group = {
 		languages = {
@@ -76,11 +76,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/futura/futura_bold.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/futura/futura_bold.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -88,13 +88,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/futura/futura_bold.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/futura/futura_bold.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -102,11 +102,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -114,17 +114,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "FUTURA-BOLD-ITALIC"
+	name = "futura-bold-italic"
 	always_load = yes
 	group = {
 		languages = {
@@ -138,11 +138,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/futura/futura_bold_italic.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/futura/futura_bold_italic.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -150,13 +150,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/futura/futura_bold_italic.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/futura/futura_bold_italic.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -164,11 +164,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -176,17 +176,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "FUTURA-ITALIC"
+	name = "futura-italic"
 	always_load = yes
 	group = {
 		languages = {
@@ -200,11 +200,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/futura/futura_italic.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/futura/futura_italic.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -212,13 +212,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/futura/futura_italic.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/futura/futura_italic.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -226,11 +226,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -238,17 +238,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "BEBAS"
+	name = "bebas"
 	always_load = yes
 	group = {
 		languages = {
@@ -262,11 +262,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/BebasNeue.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/bebasneue.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -274,10 +274,10 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-            "fonts/NotoSans/NotoSansJP-Black.otf"
-            "fonts/NotoSans/NotoSansSC-Black.otf"
-            "fonts/SB-Aggro/SB-Aggro-B.ttf"
-            "fonts/NotoSans/NotoSans-Bold.ttf"
+            "fonts/notosans/notosansjp-black.otf"
+            "fonts/notosans/notosanssc-black.otf"
+            "fonts/sb-aggro/sb-aggro-b.ttf"
+            "fonts/notosans/notosans-bold.ttf"
 		}
 	}
 	group = {
@@ -285,11 +285,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -297,17 +297,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "Cabin"
+	name = "cabin"
 	always_load = yes
 	group = {
 		languages = {
@@ -321,11 +321,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/Cabin-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/cabin-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -333,13 +333,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/Cabin-Regular.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/cabin-regular.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -347,11 +347,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -359,17 +359,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "Cabin-Bold"
+	name = "cabin-bold"
 	always_load = yes
 	group = {
 		languages = {
@@ -383,11 +383,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/Cabin-Bold.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/cabin-bold.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -395,13 +395,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/Cabin-Bold.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/cabin-bold.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -409,11 +409,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -421,17 +421,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "Cabin-Italic"
+	name = "cabin-italic"
 	always_load = yes
 	group = {
 		languages = {
@@ -445,11 +445,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/Cabin-Italic.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/cabin-italic.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -457,13 +457,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/Cabin-Italic.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/cabin-italic.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -471,11 +471,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -483,17 +483,17 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
 
 fontfiles = {
-	name = "Cabin-BoldItalic"
+	name = "cabin-bolditalic"
 	always_load = yes
 	group = {
 		languages = {
@@ -507,11 +507,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/Cabin-BoldItalic.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/cabin-bolditalic.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -519,13 +519,13 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-			"fonts/cwe/Cabin-BoldItalic.ttf"
-			"fonts/KosugiMaru/KosugiMaru-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
+			"fonts/cwp/cabin-bolditalic.ttf"
+			"fonts/kosugimaru/kosugimaru-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
+			"fonts/open_sans/opensans-regular.ttf"
 		}
 	}
 	group = {
@@ -533,11 +533,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -545,11 +545,11 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSans/NotoSansSC-Regular.otf"
-			"fonts/Open_Sans/OpenSans-Regular.ttf"
-			"fonts/NotoSans/NotoSansJP-Regular.otf"
-			"fonts/NotoSans/NotoSansKR-Regular.otf"
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notosans/notosanssc-regular.otf"
+			"fonts/open_sans/opensans-regular.ttf"
+			"fonts/notosans/notosansjp-regular.otf"
+			"fonts/notosans/notosanskr-regular.otf"
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
@@ -557,25 +557,25 @@ fontfiles = {
 #######################################################################
 #######################################################################
 #######################################################################
-# Each font should specify what it is used for.
-# Name fonts after intented usage, not after source file names.
+# each font should specify what it is used for.
+# name fonts after intented usage, not after source file names.
 font = {
 	name = "Fancy"
 	fontstyle = {
 		style = regular
-		fontfiles = "BEBAS"
+		fontfiles = "bebas"
 	}
 	fontstyle = {
 		style = bold
-		fontfiles = "BEBAS"
+		fontfiles = "bebas"
 	}
 }
 
 font = {
-	name = "Debug"
+	name = "debug"
 	fontstyle = {
 		style = regular
-		fontfiles = "Cabin"
+		fontfiles = "cabin"
 	}
 }
 
@@ -583,7 +583,7 @@ font = {
 	name = "standard_font"
 	fontstyle = {
 		style = regular
-		fontfiles = "Cabin"
+		fontfiles = "cabin"
 	}
 }
 
@@ -591,50 +591,50 @@ font = {
 	name = "OpenSans"
 	fontstyle = {
 		style = regular
-		fontfiles = "Cabin"
+		fontfiles = "cabin"
 	}
 	fontstyle = {
 		style = bold
-		fontfiles = "Cabin-Bold"
+		fontfiles = "cabin-bold"
 	}
 	fontstyle = {
 		style = italic
-		fontfiles = "Cabin-Italic"
+		fontfiles = "cabin-italic"
 	}
 	fontstyle = {
 		style = bold|italic
-		fontfiles = "Cabin-BoldItalic"
+		fontfiles = "cabin-bolditalic"
 	}
 }
 
 # font = {
-# 	name = "PlayfairDisplay"
+# 	name = "playfairdisplay"
 # 	fontstyle = {
 # 		style = regular
-# 		fontfiles = "Cabin"
+# 		fontfiles = "cabin"
 # 	}
 # 	fontstyle = {
 # 		style = bold
-# 		fontfiles = "Cabin-Bold"
+# 		fontfiles = "cabin-bold"
 # 	}
 # 	fontstyle = {
 # 		style = italic
-# 		fontfiles = "Cabin-Italic"
+# 		fontfiles = "cabin-italic"
 # 	}
 # }
 font = {
 	name = "EBGaramond"
 	fontstyle = {
 		style = regular
-		fontfiles = "Cabin"
+		fontfiles = "cabin"
 	}
 	fontstyle = {
 		style = bold
-		fontfiles = "Cabin-Bold"
+		fontfiles = "cabin-bold"
 	}
 	fontstyle = {
 		style = italic
-		fontfiles = "Cabin-Italic"
+		fontfiles = "cabin-italic"
 	}
 }
 
@@ -642,6 +642,6 @@ font = {
 # 	name = "time"
 # 	fontstyle = {
 # 		style = regular
-# 		fontfiles = "FUTURA"
+# 		fontfiles = "futura"
 # 	}
 # }

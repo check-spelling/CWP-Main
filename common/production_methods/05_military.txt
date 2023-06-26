@@ -960,7 +960,7 @@ pm_pre_war_tanks = {
 }
 
 pm_main_battle_tanks = {
-	texture = "gfx/interface/icons/production_method_icons/gen_1_MBT.dds"
+	texture = "gfx/interface/icons/production_method_icons/gen_1_mbt.dds"
 	unlocking_technologies = {
 		main_battle_tanks
 	}
@@ -993,7 +993,7 @@ pm_main_battle_tanks = {
 }
 
 pm_2nd_generation_tanks = {
-	texture = "gfx/interface/icons/production_method_icons/gen_2_MBT.dds"
+	texture = "gfx/interface/icons/production_method_icons/gen_2_mbt.dds"
 	unlocking_technologies = {
 		fin_stabilization
 	}
@@ -1026,7 +1026,7 @@ pm_2nd_generation_tanks = {
 }
 
 pm_3rd_generation_tanks = {
-	texture = "gfx/interface/icons/production_method_icons/gen_3_MBT.dds"
+	texture = "gfx/interface/icons/production_method_icons/gen_3_mbt.dds"
 	unlocking_technologies = {
 		turbine_engine
 	}
@@ -1059,7 +1059,7 @@ pm_3rd_generation_tanks = {
 }
 
 pm_modernized_3rd_generation_tanks = {
-	texture = "gfx/interface/icons/production_method_icons/gen_3.5_MBT.dds"
+	texture = "gfx/interface/icons/production_method_icons/gen_3.5_mbt.dds"
 	unlocking_technologies = {
 		active_protection_systems
 	}
@@ -1092,7 +1092,7 @@ pm_modernized_3rd_generation_tanks = {
 }
 
 pm_4th_generation_tanks = {
-	texture = "gfx/interface/icons/production_method_icons/gen_4_MBT.dds"
+	texture = "gfx/interface/icons/production_method_icons/gen_4_mbt.dds"
 	unlocking_technologies = {
 		networked_armored_units
 	}

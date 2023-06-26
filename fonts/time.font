@@ -13,11 +13,11 @@ fontfiles = {
 			"l_turkish"
 		}
 		files = {
-			"fonts/cwe/futura/futur.ttf"
-			"fonts/ZenOldMincho/ZenOldMincho-Regular.ttf"			# Zen Old Mincho is used for Playfair in Japanese
-			"fonts/SB-Aggro/SB-Aggro-M.ttf"			# SB-Aggro is used for Playfair in Korean
-			"fonts/NotoSerif/NotoSerifSC-Black.otf"			# Noto Serif is used for Playfair in Simplified Chinese
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/cwp/futura/futur.ttf"
+			"fonts/zenoldmincho/zenoldmincho-regular.ttf"			# zen old mincho is used for playfair in japanese
+			"fonts/sb-aggro/sb-aggro-m.ttf"			# sb-aggro is used for playfair in korean
+			"fonts/notoserif/notoserifsc-black.otf"			# noto serif is used for playfair in simplified chinese
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -25,10 +25,10 @@ fontfiles = {
 			"l_japanese"
 		}
 		files = {
-            "fonts/NotoSans/NotoSansJP-Black.otf"
-            "fonts/NotoSans/NotoSansSC-Black.otf"
-            "fonts/SB-Aggro/SB-Aggro-B.ttf"
-            "fonts/NotoSans/NotoSans-Bold.ttf"
+            "fonts/notosans/notosansjp-black.otf"
+            "fonts/notosans/notosanssc-black.otf"
+            "fonts/sb-aggro/sb-aggro-b.ttf"
+            "fonts/notosans/notosans-bold.ttf"
 		}
 	}
 	group = {
@@ -36,11 +36,11 @@ fontfiles = {
 			"l_korean"
 		}
 		files = {
-			"fonts/SB-Aggro/SB-Aggro-M.ttf"			# SB-Aggro is used for Playfair in Korean
-			"fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf"
-			"fonts/ZenOldMincho/ZenOldMincho-Regular.ttf"			# Zen Old Mincho is used for Playfair in Japanese
-			"fonts/NotoSerif/NotoSerifSC-Black.otf"			# Noto Serif is used for Playfair in Simplified Chinese
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/sb-aggro/sb-aggro-m.ttf"			# sb-aggro is used for playfair in korean
+			"fonts/playfairdisplay/playfairdisplay-regular.ttf"
+			"fonts/zenoldmincho/zenoldmincho-regular.ttf"			# zen old mincho is used for playfair in japanese
+			"fonts/notoserif/notoserifsc-black.otf"			# noto serif is used for playfair in simplified chinese
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 	group = {
@@ -48,11 +48,11 @@ fontfiles = {
 			"l_simp_chinese"
 		}
 		files = {
-			"fonts/NotoSerif/NotoSerifSC-Black.otf"			# Noto Serif is used for Playfair in Simplified Chinese
-			"fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf"
-			"fonts/ZenOldMincho/ZenOldMincho-Regular.ttf"			# Zen Old Mincho is used for Playfair in Japanese
-			"fonts/SB-Aggro/SB-Aggro-M.ttf"			# SB-Aggro is used for Playfair in Korean
-			"fonts/NotoSans/NotoSans-Regular.ttf"
+			"fonts/notoserif/notoserifsc-black.otf"			# noto serif is used for playfair in simplified chinese
+			"fonts/playfairdisplay/playfairdisplay-regular.ttf"
+			"fonts/zenoldmincho/zenoldmincho-regular.ttf"			# zen old mincho is used for playfair in japanese
+			"fonts/sb-aggro/sb-aggro-m.ttf"			# sb-aggro is used for playfair in korean
+			"fonts/notosans/notosans-regular.ttf"
 		}
 	}
 }
