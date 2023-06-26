@@ -28,9 +28,9 @@
 				level = 8
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
+					"pm_professional_bureaucrats"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -131,7 +131,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 6
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -268,7 +268,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 4
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -292,7 +292,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -531,7 +531,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -656,7 +656,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 2
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -751,13 +751,12 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
 				building = "building_logging_camp"
 				level = 4
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_privately_owned_mine"
@@ -769,7 +768,6 @@
 			create_building = {
 				building = "building_rye_farm"
 				level = 12
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_mechanized_harvesting"
@@ -782,7 +780,6 @@
 			create_building = {
 				building = "building_livestock_ranch"
 				level = 1
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_refrigerated_rail_cars_building_livestock_ranch"
@@ -815,7 +812,6 @@
 			create_building = {
 				building = "building_furniture_manufactories"
 				level = 3
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_fiber_production_furniture"
@@ -829,7 +825,6 @@
 			create_building = {
 				building = "building_paper_manufactories"
 				level = 5
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_paper"
@@ -841,7 +836,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 5
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -853,7 +848,6 @@
 			create_building = {
 				building = "building_hospitals"
 				level = 3
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_hospitals"
@@ -864,7 +858,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				level = 5
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_informal_bureaucracy"
@@ -897,7 +891,6 @@
 			create_building = {
 				building = "building_food_industry"
 				level = 3
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_improved_food_manufactories"
@@ -924,7 +917,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				level = 5
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_informal_bureaucracy"
@@ -947,7 +940,6 @@
 			create_building = {
 				building = "building_livestock_ranch"
 				level = 3
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_open_air_stockyards"
@@ -960,7 +952,6 @@
 			create_building = {
 				building = "building_wheat_farm"
 				level = 4
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_mechanized_harvesting"
@@ -973,7 +964,6 @@
 			create_building = {
 				building = "building_fishing_wharf"
 				level = 5
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_fishing"
@@ -992,7 +982,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 5
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -1004,7 +994,6 @@
 			create_building = {
 				building = "building_hospitals"
 				level = 2
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_hospitals"
@@ -1020,7 +1009,6 @@
 			create_building = {
 				building = "building_livestock_ranch"
 				level = 2
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_open_air_stockyards"
@@ -1033,7 +1021,6 @@
 			create_building = {
 				building = "building_rye_farm"
 				level = 5
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_organophosphates"
@@ -1046,7 +1033,6 @@
 			create_building = {
 				building = "building_logging_camp"
 				level = 3
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_advanced_mechanized_mills"
@@ -1058,7 +1044,6 @@
 			create_building = {
 				building = "building_fishing_wharf"
 				level = 2
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_fishing"
@@ -1078,7 +1063,6 @@
 			create_building = {
 				building = "building_food_industry"
 				level = 9
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_improved_food_manufactories"
@@ -1094,7 +1078,6 @@
 			create_building = {
 				building = "building_furniture_manufactories"
 				level = 4
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_fiber_production_furniture"
@@ -1107,7 +1090,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 5
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -1119,7 +1102,6 @@
 			create_building = {
 				building = "building_explosives_industry"
 				level = 2
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_rudimentary_explosives"
@@ -1133,7 +1115,6 @@
 			create_building = {
 				building = "building_shipyards"
 				level = 7
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_cargo_ships"
@@ -1146,7 +1127,6 @@
 			create_building = {
 				building = "building_pharmaceutical_industry"
 				level = 7
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_modern_medicine"
@@ -1161,7 +1141,6 @@
 			create_building = {
 				building = "building_hospitals"
 				level = 3
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_hospitals"
@@ -1172,7 +1151,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				level = 6
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_informal_bureaucracy"
@@ -1193,7 +1172,6 @@
 			create_building = {
 				building = "building_tool_manufactories"
 				level = 18
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_tools"
@@ -1206,7 +1184,6 @@
 			create_building = {
 				building = "building_glassworks"
 				level = 6
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_pre_war_glassworking"
@@ -1219,12 +1196,11 @@
 			create_building = {
 				building = "building_combustion_plant"
 				level = 8
-				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 		}
@@ -1306,9 +1282,9 @@
 				level = 1
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
+					"pm_professional_bureaucrats"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -1324,7 +1300,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 5
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1398,7 +1374,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -1414,7 +1390,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 5
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1564,7 +1540,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -1573,8 +1549,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_secular_faculty"
 					"pm_state_directed_research"
+					"pm_religious_faculty"
 				}
 			}
 			create_building = {
@@ -1590,7 +1566,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				level = 6
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1672,7 +1648,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 		}
@@ -1707,11 +1683,11 @@
 				level = 7
 				reserves = 1
 				activate_production_methods = {
-					"pm_privately_owned_farm"
+					"pm_open_air_stockyards"
 					"pm_butchering_tools"
 					"pm_standard_fences"
 					"pm_unrefrigerated"
-					"pm_open_air_stockyards"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -1719,11 +1695,11 @@
 				level = 17
 				reserves = 1
 				activate_production_methods = {
-					"pm_privately_owned_farm"
+					"pm_mechanized_harvesting"
 					"pm_no_secondary"
 					"pm_no_sugar_beets"
 					"pm_fertilizers"
-					"pm_mechanized_harvesting"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -1734,7 +1710,7 @@
 					"pm_manual_resource_extraction_copper"
 					"pm_traditional_tools"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -1745,7 +1721,7 @@
 					"pm_manual_resource_extraction_iron"
 					"pm_traditional_tools"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -1756,7 +1732,7 @@
 					"pm_simple_forestry"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -1767,7 +1743,7 @@
 					"pm_simple_fishing"
 					"pm_no_whaling"
 					"pm_traditional_packaging_fishing"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -1778,7 +1754,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -1791,7 +1767,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_government_run_heavy_industry"
 				}
 			}
 			create_building = {
@@ -1803,7 +1779,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_government_run_heavy_industry"
 				}
 			}
 			create_building = {
@@ -1812,10 +1788,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_early_steelmaking"
-					"pm_privately_owned_heavy_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_government_run_heavy_industry"
 				}
 			}
 			create_building = {
@@ -1830,7 +1806,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -1839,10 +1815,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_paper"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -1860,10 +1836,10 @@
 				activate_production_methods = {
 					"pm_fiber_production_furniture"
 					"pm_no_household_appliance_manufacturing"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -1872,10 +1848,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_fiber_production_textiles"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -1910,7 +1886,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -1933,9 +1909,9 @@
 					"pm_no_opiates"
 					"pm_no_recreational_drug_production"
 					"pm_no_automation"
-					"pm_privately_owned_general_industry"
-					"pm_no_environmental_tech"
 					"pm_professional_services_use"
+					"pm_no_environmental_tech"
+					"pm_government_run_general_industry"
 				}
 			}
 		}
@@ -1947,11 +1923,11 @@
 				level = 3
 				reserves = 1
 				activate_production_methods = {
-					"pm_privately_owned_farm"
+					"pm_manual_harvesting"
 					"pm_no_secondary"
 					"pm_no_sugar_beets"
 					"pm_simple_farming"
-					"pm_manual_harvesting"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -1962,7 +1938,7 @@
 					"pm_manual_resource_extraction_iron"
 					"pm_traditional_tools"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 		}
@@ -2006,13 +1982,13 @@
 				level = 1
 				reserves = 1
 				activate_production_methods = {
-					"pm_privately_owned_airport"
 					"pm_national_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
 				building = "building_railway"
-				level = 20
+				level = 19
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -2028,8 +2004,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_coal_fired_plant"
-					"pm_privately_owned_utility"
 					"pm_professional_services_use"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -2164,10 +2140,10 @@
 				level = 14
 				reserves = 1
 				activate_production_methods = {
-					"pm_powered_assembly_lines_industry"
-					"pm_no_household_appliance_manufacturing"
 					"pm_professional_services_use"
+					"pm_no_household_appliance_manufacturing"
 					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_no_environmental_tech"
 					"pm_synthetic_fiber_production_furniture"
 				}
@@ -2446,7 +2422,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 15
+				level = 11
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -2463,7 +2439,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -2819,7 +2795,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 6
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -2836,7 +2812,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -3057,7 +3033,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 13
+				level = 9
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -3074,7 +3050,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -3408,7 +3384,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -3505,13 +3481,13 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 5
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -3720,13 +3696,13 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 11
+				level = 7
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -3737,7 +3713,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -4050,7 +4026,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -4425,18 +4401,18 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_national_airport"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
 				building = "building_railway"
-				level = 8
+				level = 7
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -4447,7 +4423,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -4794,13 +4770,13 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 4
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -4811,7 +4787,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -4981,7 +4957,7 @@
 					"pm_no_secondary"
 					"pm_no_sugar_beets"
 					"pm_manual_harvesting"
-					"pm_privately_owned_farm"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -4989,11 +4965,11 @@
 				level = 15
 				reserves = 1
 				activate_production_methods = {
-					"pm_privately_owned_farm"
+					"pm_slaughterhouses"
 					"pm_intensive_grazing_ranch"
 					"pm_standard_fences"
 					"pm_unrefrigerated"
-					"pm_slaughterhouses"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -5004,7 +4980,7 @@
 					"pm_simple_forestry"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -5015,7 +4991,7 @@
 					"pm_simple_fishing"
 					"pm_no_whaling"
 					"pm_traditional_packaging_fishing"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -5034,7 +5010,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -5060,7 +5036,7 @@
 					"pm_no_secondary"
 					"pm_no_sugar_beets"
 					"pm_manual_harvesting"
-					"pm_privately_owned_farm"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -5072,7 +5048,7 @@
 					"pm_slaughterhouses"
 					"pm_standard_fences"
 					"pm_unrefrigerated"
-					"pm_privately_owned_farm"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -5083,7 +5059,7 @@
 					"pm_simple_forestry"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -5094,7 +5070,7 @@
 					"pm_simple_fishing"
 					"pm_no_whaling"
 					"pm_traditional_packaging_fishing"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -5109,7 +5085,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -5136,7 +5112,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -5168,7 +5144,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -5180,7 +5156,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_government_run_heavy_industry"
 				}
 			}
 			create_building = {
@@ -5193,7 +5169,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -5205,7 +5181,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -5232,7 +5208,7 @@
 					"pm_no_secondary"
 					"pm_no_sugar_beets"
 					"pm_manual_harvesting"
-					"pm_privately_owned_farm"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -5244,7 +5220,7 @@
 					"pm_slaughterhouses"
 					"pm_standard_fences"
 					"pm_unrefrigerated"
-					"pm_privately_owned_farm"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -5255,7 +5231,7 @@
 					"pm_simple_forestry"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -5266,7 +5242,7 @@
 					"pm_simple_fishing"
 					"pm_no_whaling"
 					"pm_traditional_packaging_fishing"
-					"pm_privately_owned_general_industry"
+					"pm_government_run_general_industry"
 				}
 			}
 			create_building = {
@@ -5285,7 +5261,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -5409,10 +5385,10 @@
 				level = 15
 				reserves = 1
 				activate_production_methods = {
-					"pm_powered_assembly_lines_industry"
-					"pm_no_household_appliance_manufacturing"
 					"pm_professional_services_use"
+					"pm_no_household_appliance_manufacturing"
 					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_no_environmental_tech"
 					"pm_synthetic_fiber_production_furniture"
 				}
@@ -5504,11 +5480,11 @@
 				level = 5
 				reserves = 1
 				activate_production_methods = {
-					"pm_pre_war_artillery"
-					"pm_post_war_fighters"
-					"pm_no_formal_medical_support"
-					"pm_no_motorized"
 					"pm_main_battle_tanks"
+					"pm_no_formal_medical_support"
+					"pm_post_war_fighters"
+					"pm_no_motorized"
+					"pm_pre_war_artillery"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
 					"pm_post_war_infantry"
@@ -5545,9 +5521,9 @@
 				level = 10
 				reserves = 1
 				activate_production_methods = {
-					"pm_pre_war_ammunition"
 					"pm_powered_assembly_lines_industry"
 					"pm_privately_owned_military_industry"
+					"pm_pre_war_ammunition"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
 					"pm_plastic_explosives"
@@ -5735,11 +5711,11 @@
 					"pm_post_war_infantry"
 					"pm_pre_war_artillery"
 					"pm_main_battle_tanks"
-					"pm_no_aircraft"
+					"pm_no_motorized"
 					"pm_no_formal_medical_support"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
-					"pm_no_motorized"
+					"pm_no_aircraft"
 				}
 			}
 			create_building = {
@@ -5968,11 +5944,11 @@
 					"pm_post_war_infantry"
 					"pm_pre_war_artillery"
 					"pm_main_battle_tanks"
+					"pm_no_motorized"
 					"pm_no_formal_medical_support"
-					"pm_no_aircraft"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
-					"pm_no_motorized"
+					"pm_no_aircraft"
 				}
 			}
 			create_building = {
@@ -6122,11 +6098,11 @@
 					"pm_post_war_infantry"
 					"pm_pre_war_artillery"
 					"pm_main_battle_tanks"
-					"pm_no_formal_medical_support"
+					"pm_no_motorized"
 					"pm_no_aircraft"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
-					"pm_no_motorized"
+					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -6312,11 +6288,11 @@
 					"pm_post_war_infantry"
 					"pm_pre_war_artillery"
 					"pm_main_battle_tanks"
-					"pm_no_formal_medical_support"
+					"pm_no_motorized"
 					"pm_no_aircraft"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
-					"pm_no_motorized"
+					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -6435,11 +6411,11 @@
 					"pm_post_war_infantry"
 					"pm_pre_war_artillery"
 					"pm_main_battle_tanks"
-					"pm_no_formal_medical_support"
+					"pm_no_motorized"
 					"pm_no_aircraft"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
-					"pm_no_motorized"
+					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -6714,11 +6690,11 @@
 					"pm_post_war_infantry"
 					"pm_pre_war_artillery"
 					"pm_main_battle_tanks"
-					"pm_no_formal_medical_support"
+					"pm_no_motorized"
 					"pm_no_aircraft"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
-					"pm_no_motorized"
+					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -7524,11 +7500,11 @@
 					"pm_post_war_infantry"
 					"pm_pre_war_artillery"
 					"pm_main_battle_tanks"
-					"pm_no_formal_medical_support"
+					"pm_no_motorized"
 					"pm_no_aircraft"
 					"pm_no_special_reconnaissance"
 					"pm_no_communications_support"
-					"pm_no_motorized"
+					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -7987,8 +7963,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_secular_faculty"
 					"pm_state_directed_research"
+					"pm_religious_faculty"
 				}
 			}
 			create_building = {
@@ -8063,7 +8039,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 7
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -8141,9 +8117,9 @@
 				level = 8
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
+					"pm_professional_bureaucrats"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -8302,9 +8278,9 @@
 				activate_production_methods = {
 					"pm_traditional_financial_services"
 					"pm_no_commercial_banking"
-					"pm_privately_owned_urban_center"
-					"pm_professional_service_industry_no"
 					"pm_no_investment_services"
+					"pm_professional_service_industry_no"
+					"pm_privately_owned_urban_center"
 				}
 			}
 		}
@@ -8414,7 +8390,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 6
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -8442,7 +8418,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -8498,9 +8474,9 @@
 				activate_production_methods = {
 					"pm_traditional_financial_services"
 					"pm_no_commercial_banking"
-					"pm_privately_owned_urban_center"
-					"pm_professional_service_industry_no"
 					"pm_no_investment_services"
+					"pm_professional_service_industry_no"
+					"pm_privately_owned_urban_center"
 				}
 			}
 		}
@@ -8577,7 +8553,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 6
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -8593,7 +8569,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -8602,8 +8578,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_secular_faculty"
 					"pm_state_directed_research"
+					"pm_religious_faculty"
 				}
 			}
 			create_building = {
@@ -8621,9 +8597,9 @@
 				activate_production_methods = {
 					"pm_traditional_financial_services"
 					"pm_no_commercial_banking"
-					"pm_privately_owned_urban_center"
-					"pm_professional_service_industry_no"
 					"pm_no_investment_services"
+					"pm_professional_service_industry_no"
+					"pm_privately_owned_urban_center"
 				}
 			}
 		}
@@ -8710,7 +8686,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -8720,7 +8696,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -8777,7 +8753,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -8857,7 +8833,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -9003,7 +8979,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -9037,7 +9013,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -9317,8 +9293,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -9359,7 +9335,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -9499,9 +9475,9 @@
 				level = 15
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
+					"pm_professional_bureaucrats"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -9514,7 +9490,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9526,8 +9502,8 @@
 					"pm_simple_farming"
 					"pm_apple_orchards"
 					"pm_no_sugar_beets"
-					"pm_government_run_farm"
 					"pm_mechanized_harvesting"
+					"pm_worker_cooperatives_farm"
 				}
 			}
 			create_building = {
@@ -9539,7 +9515,7 @@
 					"pm_manual_resource_extraction_coal"
 					"pm_traditional_tools"
 					"pm_manual_transportation"
-					"pm_government_run_mine"
+					"pm_worker_cooperatives_mine"
 				}
 			}
 			create_building = {
@@ -9551,7 +9527,7 @@
 					"pm_manual_resource_extraction_iron"
 					"pm_traditional_tools"
 					"pm_manual_transportation"
-					"pm_government_run_mine"
+					"pm_worker_cooperatives_mine"
 				}
 			}
 			create_building = {
@@ -9564,7 +9540,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_heavy_industry"
+					"pm_worker_cooperatives_heavy_industry"
 				}
 			}
 			create_building = {
@@ -9600,7 +9576,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_heavy_industry"
+					"pm_worker_cooperatives_heavy_industry"
 				}
 			}
 			create_building = {
@@ -9620,7 +9596,7 @@
 					"pm_electric_saw_mills"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_government_run_mine"
+					"pm_worker_cooperatives_mine"
 				}
 			}
 			create_building = {
@@ -9633,7 +9609,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9646,7 +9622,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_heavy_industry"
+					"pm_worker_cooperatives_heavy_industry"
 				}
 			}
 			create_building = {
@@ -9662,7 +9638,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9675,7 +9651,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_heavy_industry"
+					"pm_worker_cooperatives_heavy_industry"
 				}
 			}
 			create_building = {
@@ -9689,7 +9665,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_heavy_industry"
+					"pm_worker_cooperatives_heavy_industry"
 				}
 			}
 			create_building = {
@@ -9703,7 +9679,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9732,7 +9708,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_military_industry"
+					"pm_worker_cooperatives_military_industry"
 				}
 			}
 			create_building = {
@@ -9746,7 +9722,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_military_industry"
+					"pm_worker_cooperatives_military_industry"
 				}
 			}
 			create_building = {
@@ -9759,7 +9735,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9784,7 +9760,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9810,7 +9786,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -9822,8 +9798,8 @@
 					"pm_simple_farming"
 					"pm_no_secondary"
 					"pm_no_honey_production"
-					"pm_government_run_farm"
 					"pm_mechanized_harvesting"
+					"pm_worker_cooperatives_farm"
 				}
 			}
 			create_building = {
@@ -9843,10 +9819,10 @@
 				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
-					"pm_government_run_mine"
+					"pm_simple_forestry"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_simple_forestry"
+					"pm_worker_cooperatives_mine"
 				}
 			}
 			create_building = {
@@ -9855,11 +9831,11 @@
 				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
-					"pm_government_run_farm"
-					"pm_electric_fencing"
 					"pm_refrigerated_rail_cars_building_livestock_ranch"
 					"pm_open_air_stockyards"
 					"pm_mechanized_slaughtering"
+					"pm_electric_fencing"
+					"pm_worker_cooperatives_farm"
 				}
 			}
 			create_building = {
@@ -9875,7 +9851,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9888,7 +9864,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_worker_cooperatives_general_industry"
 				}
 			}
 			create_building = {
@@ -9932,10 +9908,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_farming"
-					"pm_privately_owned_farm"
+					"pm_honey_production"
 					"pm_citrus_orchards"
 					"pm_manual_harvesting"
-					"pm_honey_production"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -9946,7 +9922,7 @@
 					"pm_simple_forestry"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -9954,11 +9930,11 @@
 				level = 2
 				reserves = 1
 				activate_production_methods = {
-					"pm_privately_owned_farm"
+					"pm_open_air_stockyards"
 					"pm_butchering_tools"
 					"pm_standard_fences"
 					"pm_unrefrigerated"
-					"pm_open_air_stockyards"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -9969,18 +9945,18 @@
 					"pm_manual_resource_extraction_gold"
 					"pm_traditional_tools"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
 				building = "building_railway"
-				level = 2
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -9989,7 +9965,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 		}
@@ -10085,9 +10061,9 @@
 				level = 5
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
+					"pm_professional_bureaucrats"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -10144,9 +10120,9 @@
 				level = 2
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
+					"pm_professional_bureaucrats"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -10178,280 +10154,6 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
-				}
-			}
-		}
-	}
-	s:STATE_HAMBURG = {
-		region_state:BOZ = {
-			create_building = {
-				building = "building_rye_farm"
-				level = 13
-				reserves = 1
-				activate_production_methods = {
-					"pm_privately_owned_farm"
-					"pm_organophosphates"
-					"pm_no_sugar_beets"
-					"pm_apple_orchards"
-					"pm_mechanized_harvesting"
-				}
-			}
-			create_building = {
-				building = "building_logging_camp"
-				level = 7
-				reserves = 1
-				activate_production_methods = {
-					"pm_privately_owned_mine"
-					"pm_no_equipment"
-					"pm_manual_transportation"
-					"pm_advanced_mechanized_mills"
-				}
-			}
-			create_building = {
-				building = "building_government_administration"
-				level = 2
-				reserves = 1
-				activate_production_methods = {
-					"pm_professional_bureaucrats"
-					"pm_professional_service_industry_no"
-					"pm_modern_bureaucracy"
-				}
-			}
-			create_building = {
-				building = "building_university"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_higher_education"
-					"pm_independent_research_focus"
-					"pm_secular_faculty"
-				}
-			}
-			create_building = {
-				building = "building_livestock_ranch"
-				level = 9
-				reserves = 1
-				activate_production_methods = {
-					"pm_refrigerated_rail_cars_building_livestock_ranch"
-					"pm_open_air_stockyards"
-					"pm_mechanized_slaughtering"
-					"pm_privately_owned_farm"
-					"pm_electric_fencing"
-				}
-			}
-			create_building = {
-				building = "building_railway"
-				level = 7
-				reserves = 1
-				activate_production_methods = {
-					"pm_steam_trains"
-					"pm_paved_roads"
-					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
-				}
-			}
-			create_building = {
-				building = "building_tool_manufactories"
-				level = 32
-				reserves = 1
-				activate_production_methods = {
-					"pm_privately_owned_heavy_industry"
-					"pm_no_automation"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_power_tools"
-				}
-			}
-			create_building = {
-				building = "building_explosives_industry"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_rudimentary_explosives"
-					"pm_powered_assembly_lines_industry"
-					"pm_privately_owned_military_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_pre_war_ammunition"
-				}
-			}
-			create_building = {
-				building = "building_chemical_plants"
-				level = 10
-				reserves = 1
-				activate_production_methods = {
-					"pm_powered_assembly_lines_industry"
-					"pm_privately_owned_general_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_organophosphates_fertilizer"
-				}
-			}
-			create_building = {
-				building = "building_shipyards"
-				level = 2
-				reserves = 1
-				activate_production_methods = {
-					"pm_cargo_ships"
-					"pm_privately_owned_military_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_combustion_plant"
-				level = 8
-				reserves = 1
-				activate_production_methods = {
-					"pm_coal_fired_plant"
-					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
-				}
-			}
-			create_building = {
-				building = "building_port"
-				level = 6
-				reserves = 1
-				activate_production_methods = {
-					"pm_anchorage"
-				}
-			}
-			create_building = {
-				building = "building_electronics_manufactories"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_pre_war_electronics"
-					"pm_no_sensors"
-					"pm_privately_owned_general_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_naval_base"
-				level = 5
-				reserves = 1
-				activate_production_methods = {
-					"pm_naval_command"
-					"pm_wartime_escort_ships"
-					"pm_wartime_cruisers"
-					"pm_no_attack_submarines"
-				}
-			}
-			create_building = {
-				building = "building_food_industry"
-				level = 15
-				reserves = 1
-				activate_production_methods = {
-					"pm_improved_food_manufactories"
-					"pm_preservatives_fish"
-					"pm_preservatives_meat"
-					"pm_preservatives_fruit"
-					"pm_privately_owned_general_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_steelworks"
-				level = 9
-				reserves = 1
-				activate_production_methods = {
-					"pm_early_steelmaking"
-					"pm_privately_owned_heavy_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_paper_manufactories"
-				level = 6
-				reserves = 1
-				activate_production_methods = {
-					"pm_base_paper"
-					"pm_privately_owned_general_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_small_arms_manufactories"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_semi_automatic_rifles"
-					"pm_powered_assembly_lines_industry"
-					"pm_privately_owned_military_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_pre_war_artillery_prod"
-				}
-			}
-			create_building = {
-				building = "building_advanced_military_manufactories"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_pre_war_tanks_prod"
-					"pm_powered_assembly_lines_industry"
-					"pm_privately_owned_military_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_no_armored_fighting_vehicle_prod"
-				}
-			}
-			create_building = {
-				building = "building_oil_rig"
-				level = 3
-				reserves = 1
-				activate_production_methods = {
-					"pm_oil_rigs"
-					"pm_manual_transportation"
-					"pm_privately_owned_military_industry"
-				}
-			}
-			create_building = {
-				building = "building_synthetics_plant"
-				level = 5
-				reserves = 1
-				activate_production_methods = {
-					"pm_nylon"
-					"pm_no_rubber"
-					"pm_privately_owned_heavy_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_motor_industry"
-				level = 6
-				reserves = 1
-				activate_production_methods = {
-					"pm_combustion_gas_engines_motors"
-					"pm_no_electronics_motors"
-					"pm_privately_owned_heavy_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_textile_manufactories"
-				level = 2
-				reserves = 1
-				activate_production_methods = {
-					"pm_powered_assembly_lines_industry"
-					"pm_privately_owned_general_industry"
-					"pm_professional_service_industry_no"
-					"pm_no_environmental_tech"
-					"pm_synthetic_fiber_production_textiles"
 				}
 			}
 		}
@@ -10947,9 +10649,9 @@
 				level = 21
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
-					"pm_professional_service_industry_no"
 					"pm_professional_bureaucrats"
+					"pm_professional_service_industry_no"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -10958,10 +10660,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_paper"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_general_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -10969,11 +10671,11 @@
 				level = 13
 				reserves = 1
 				activate_production_methods = {
-					"pm_organophosphates"
-					"pm_apple_orchards"
-					"pm_no_sugar_beets"
-					"pm_mechanized_harvesting"
 					"pm_privately_owned_farm"
+					"pm_organophosphates"
+					"pm_no_sugar_beets"
+					"pm_apple_orchards"
+					"pm_mechanized_harvesting"
 				}
 			}
 			create_building = {
@@ -10989,13 +10691,13 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 11
+				level = 10
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -11023,8 +10725,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -11032,11 +10734,11 @@
 				level = 6
 				reserves = 1
 				activate_production_methods = {
+					"pm_privately_owned_farm"
 					"pm_open_air_stockyards"
 					"pm_mechanized_slaughtering"
 					"pm_electric_fencing"
 					"pm_refrigerated_rail_cars_building_livestock_ranch"
-					"pm_privately_owned_farm"
 				}
 			}
 			create_building = {
@@ -11046,7 +10748,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -11071,10 +10773,10 @@
 					"pm_preservatives_fish"
 					"pm_preservatives_meat"
 					"pm_preservatives_fruit"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_general_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11094,11 +10796,11 @@
 				level = 8
 				reserves = 1
 				activate_production_methods = {
+					"pm_privately_owned_general_industry"
 					"pm_organophosphates_fertilizer"
-					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11106,11 +10808,11 @@
 				level = 14
 				reserves = 1
 				activate_production_methods = {
-					"pm_power_tools"
+					"pm_privately_owned_heavy_industry"
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_power_tools"
 				}
 			}
 			create_building = {
@@ -11120,10 +10822,10 @@
 				activate_production_methods = {
 					"pm_combustion_gas_engines_motors"
 					"pm_no_electronics_motors"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_heavy_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11132,10 +10834,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_early_steelmaking"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_heavy_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11158,10 +10860,10 @@
 				activate_production_methods = {
 					"pm_nylon"
 					"pm_no_rubber"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_heavy_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11187,31 +10889,16 @@
 				}
 			}
 			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_no_formal_medical_support"
-					"pm_no_artillery"
-					"pm_no_armoured_integration"
-					"pm_no_motorized"
-					"pm_no_aircraft"
-					"pm_no_special_reconnaissance"
-					"pm_no_communications_support"
-					"pm_post_war_infantry"
-				}
-			}
-			create_building = {
 				building = "building_explosives_industry"
 				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_rudimentary_explosives"
+					"pm_privately_owned_military_industry"
 					"pm_pre_war_ammunition"
-					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_military_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 		}
@@ -11237,8 +10924,8 @@
 				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
-					"pm_government_run_mine"
 					"pm_power_tools_coal"
+					"pm_government_run_mine"
 					"pm_manual_transportation"
 					"pm_heavy_equipment_extraction_coal"
 				}
@@ -11327,7 +11014,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -11344,10 +11031,10 @@
 				subsidized = yes
 				reserves = 1
 				activate_production_methods = {
-					"pm_mechanized_slaughtering"
 					"pm_refrigerated_rail_cars_building_livestock_ranch"
-					"pm_open_air_stockyards"
 					"pm_electric_fencing"
+					"pm_open_air_stockyards"
+					"pm_mechanized_slaughtering"
 					"pm_government_run_farm"
 				}
 			}
@@ -11361,7 +11048,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -11389,7 +11076,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -11427,9 +11114,9 @@
 				level = 15
 				reserves = 1
 				activate_production_methods = {
-					"pm_modern_bureaucracy"
-					"pm_professional_service_industry_no"
 					"pm_professional_bureaucrats"
+					"pm_professional_service_industry_no"
+					"pm_modern_bureaucracy"
 				}
 			}
 			create_building = {
@@ -11452,7 +11139,7 @@
 					"pm_manual_resource_extraction_coal"
 					"pm_traditional_tools"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
@@ -11465,7 +11152,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_government_run_heavy_industry"
 				}
 			}
 			create_building = {
@@ -11477,7 +11164,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_heavy_industry"
+					"pm_government_run_heavy_industry"
 				}
 			}
 			create_building = {
@@ -11487,7 +11174,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -11498,7 +11185,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -11518,11 +11205,11 @@
 				level = 4
 				reserves = 1
 				activate_production_methods = {
-					"pm_privately_owned_heavy_industry"
+					"pm_power_tools"
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_power_tools"
+					"pm_government_run_heavy_industry"
 				}
 			}
 			create_building = {
@@ -11531,10 +11218,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_farming"
-					"pm_privately_owned_farm"
+					"pm_no_secondary"
 					"pm_honey_production"
 					"pm_manual_harvesting"
-					"pm_no_secondary"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -11590,10 +11277,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_farming"
-					"pm_privately_owned_farm"
 					"pm_no_secondary"
-					"pm_honey_production"
+					"pm_privately_owned_farm"
 					"pm_manual_harvesting"
+					"pm_honey_production"
 				}
 			}
 			create_building = {
@@ -11627,7 +11314,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -11657,7 +11344,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -11690,8 +11377,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -11711,11 +11398,11 @@
 				level = 22
 				reserves = 1
 				activate_production_methods = {
+					"pm_privately_owned_general_industry"
 					"pm_synthetic_fiber_production_textiles"
-					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11812,31 +11499,16 @@
 				}
 			}
 			create_building = {
-				building = "building_barracks"
-				level = 3
-				reserves = 1
-				activate_production_methods = {
-					"pm_post_war_infantry"
-					"pm_no_artillery"
-					"pm_no_armoured_integration"
-					"pm_no_motorized"
-					"pm_no_aircraft"
-					"pm_no_special_reconnaissance"
-					"pm_no_communications_support"
-					"pm_no_formal_medical_support"
-				}
-			}
-			create_building = {
 				building = "building_advanced_military_manufactories"
 				level = 8
 				reserves = 1
 				activate_production_methods = {
 					"pm_pre_war_tanks_prod"
+					"pm_privately_owned_military_industry"
 					"pm_no_armored_fighting_vehicle_prod"
-					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_military_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11857,10 +11529,10 @@
 				level = 2
 				reserves = 1
 				activate_production_methods = {
-					"pm_advanced_mechanized_mills"
+					"pm_privately_owned_mine"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_advanced_mechanized_mills"
 				}
 			}
 			create_building = {
@@ -11869,11 +11541,11 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_semi_automatic_rifles"
+					"pm_privately_owned_military_industry"
 					"pm_pre_war_artillery_prod"
-					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_military_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11882,7 +11554,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -11892,10 +11564,10 @@
 				activate_production_methods = {
 					"pm_pre_war_electronics"
 					"pm_no_sensors"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_general_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_general_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -11993,7 +11665,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
@@ -12003,25 +11675,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_paper"
-					"pm_government_run_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
-				}
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_no_formal_medical_support"
-					"pm_no_artillery"
-					"pm_no_armoured_integration"
-					"pm_no_motorized"
-					"pm_no_aircraft"
-					"pm_no_special_reconnaissance"
-					"pm_no_communications_support"
-					"pm_post_war_infantry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -12105,10 +11762,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_organophosphates_fertilizer"
-					"pm_government_run_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -12120,10 +11777,10 @@
 					"pm_modern_medicine"
 					"pm_no_opiates"
 					"pm_no_recreational_drug_production"
-					"pm_government_run_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -12147,10 +11804,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_fiber_production_textiles"
-					"pm_government_run_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 		}
@@ -12161,7 +11818,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -12195,7 +11852,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_national_airport"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -12206,7 +11863,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 		}
@@ -12265,7 +11922,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -12274,8 +11931,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -12361,17 +12018,6 @@
 				}
 			}
 			create_building = {
-				building = "building_naval_base"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_naval_command"
-					"pm_wartime_escort_ships"
-					"pm_wartime_cruisers"
-					"pm_no_attack_submarines"
-				}
-			}
-			create_building = {
 				building = "building_furniture_manufactories"
 				level = 1
 				reserves = 1
@@ -12443,7 +12089,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -12464,8 +12110,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -12508,18 +12154,18 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
 				building = "building_railway"
-				level = 12
+				level = 10
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -12608,21 +12254,6 @@
 				}
 			}
 			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_no_formal_medical_support"
-					"pm_no_artillery"
-					"pm_post_war_infantry"
-					"pm_no_motorized"
-					"pm_no_aircraft"
-					"pm_no_special_reconnaissance"
-					"pm_no_communications_support"
-					"pm_pre_war_tanks"
-				}
-			}
-			create_building = {
 				building = "building_synthetics_plant"
 				level = 10
 				reserves = 1
@@ -12692,7 +12323,7 @@
 					"pm_hospitals"
 					"pm_traditional_treatments"
 					"pm_professional_service_industry_no"
-					"pm_privatized_hospital"
+					"pm_government_run_hospital"
 				}
 			}
 			create_building = {
@@ -12798,7 +12429,7 @@
 					"pm_no_secondary"
 					"pm_honey_production"
 					"pm_manual_harvesting"
-					"pm_privately_owned_farm"
+					"pm_government_run_farm"
 				}
 			}
 			create_building = {
@@ -12809,18 +12440,18 @@
 					"pm_simple_forestry"
 					"pm_no_equipment"
 					"pm_manual_transportation"
-					"pm_privately_owned_mine"
+					"pm_government_run_mine"
 				}
 			}
 			create_building = {
 				building = "building_railway"
-				level = 1
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -12882,13 +12513,13 @@
 			}
 			create_building = {
 				building = "building_railway"
-				level = 10
+				level = 9
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -12897,8 +12528,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -13001,10 +12632,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_cargo_ships"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_military_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_privately_owned_military_industry"
+					"pm_powered_assembly_lines_industry"
 				}
 			}
 			create_building = {
@@ -13014,7 +12645,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -13036,17 +12667,6 @@
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
 					"pm_privately_owned_military_industry"
-				}
-			}
-			create_building = {
-				building = "building_naval_base"
-				level = 3
-				reserves = 1
-				activate_production_methods = {
-					"pm_naval_command"
-					"pm_wartime_escort_ships"
-					"pm_wartime_cruisers"
-					"pm_no_attack_submarines"
 				}
 			}
 			create_building = {
@@ -13159,7 +12779,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -13192,8 +12812,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -13226,18 +12846,18 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
 				building = "building_railway"
-				level = 14
+				level = 13
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -13331,21 +12951,6 @@
 					"pm_traditional_tools"
 					"pm_manual_transportation"
 					"pm_privately_owned_mine"
-				}
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_post_war_infantry"
-					"pm_no_artillery"
-					"pm_pre_war_tanks"
-					"pm_no_motorized"
-					"pm_no_aircraft"
-					"pm_no_special_reconnaissance"
-					"pm_no_communications_support"
-					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -13484,7 +13089,7 @@
 					"pm_hospitals"
 					"pm_traditional_treatments"
 					"pm_professional_service_industry_no"
-					"pm_privatized_hospital"
+					"pm_government_run_hospital"
 				}
 			}
 			create_building = {
@@ -13523,7 +13128,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -13556,8 +13161,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -13588,7 +13193,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -13599,7 +13204,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -13717,7 +13322,7 @@
 					"pm_hospitals"
 					"pm_traditional_treatments"
 					"pm_professional_service_industry_no"
-					"pm_privatized_hospital"
+					"pm_government_run_hospital"
 				}
 			}
 			create_building = {
@@ -13731,21 +13336,6 @@
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
 					"pm_privately_owned_general_industry"
-				}
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_post_war_infantry"
-					"pm_no_artillery"
-					"pm_pre_war_tanks"
-					"pm_no_motorized"
-					"pm_no_aircraft"
-					"pm_no_special_reconnaissance"
-					"pm_no_communications_support"
-					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -13988,7 +13578,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -14006,10 +13596,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_fiber_production_textiles"
-					"pm_government_run_general_industry"
+					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_no_automation"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -14036,7 +13626,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -14116,7 +13706,7 @@
 					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -14126,7 +13716,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 		}
@@ -14139,7 +13729,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -14148,8 +13738,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -14192,7 +13782,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_service_industry_no"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -14203,7 +13793,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -14397,7 +13987,7 @@
 					"pm_hospitals"
 					"pm_traditional_treatments"
 					"pm_professional_service_industry_no"
-					"pm_privatized_hospital"
+					"pm_government_run_hospital"
 				}
 			}
 			create_building = {
@@ -14449,21 +14039,6 @@
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
 					"pm_privately_owned_military_industry"
-				}
-			}
-			create_building = {
-				building = "building_barracks"
-				level = 1
-				reserves = 1
-				activate_production_methods = {
-					"pm_post_war_infantry"
-					"pm_no_artillery"
-					"pm_pre_war_tanks"
-					"pm_no_motorized"
-					"pm_no_aircraft"
-					"pm_no_special_reconnaissance"
-					"pm_no_communications_support"
-					"pm_no_formal_medical_support"
 				}
 			}
 			create_building = {
@@ -14614,7 +14189,7 @@
 		region_state:GBR = {
 			create_building = {
 				building = "building_railway"
-				level = 16
+				level = 14
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -14631,7 +14206,7 @@
 				activate_production_methods = {
 					"pm_coal_fired_plant"
 					"pm_professional_services_use"
-					"pm_privately_owned_utility"
+					"pm_government_run_utility"
 				}
 			}
 			create_building = {
@@ -15032,7 +14607,7 @@
 					"pm_trauma_centers"
 					"pm_antibiotics"
 					"pm_professional_service_industry_no"
-					"pm_privatized_hospital"
+					"pm_government_run_hospital"
 				}
 			}
 			create_building = {
@@ -15041,9 +14616,9 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_magazines_media"
-					"pm_independent_news"
-					"pm_professional_service_industry_no"
 					"pm_privately_owned_urban_center"
+					"pm_professional_service_industry_no"
+					"pm_state_news"
 				}
 			}
 			create_building = {
@@ -15052,8 +14627,8 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
-					"pm_independent_research_focus"
 					"pm_secular_faculty"
+					"pm_state_directed_research"
 				}
 			}
 			create_building = {
@@ -15128,7 +14703,7 @@
 					"pm_steam_trains"
 					"pm_paved_roads"
 					"pm_cargo_prioritization"
-					"pm_privately_owned_building_railway"
+					"pm_government_run_building_railway"
 				}
 			}
 			create_building = {
@@ -15137,7 +14712,7 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_airfield"
-					"pm_privately_owned_airport"
+					"pm_government_run_airport"
 				}
 			}
 			create_building = {
@@ -15188,7 +14763,7 @@
 					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_government_run_general_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -15213,10 +14788,10 @@
 					"pm_modern_medicine"
 					"pm_no_opiates"
 					"pm_no_recreational_drug_production"
-					"pm_government_run_general_industry"
+					"pm_no_automation"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_no_automation"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -15226,10 +14801,10 @@
 				reserves = 1
 				activate_production_methods = {
 					"pm_fiber_production_textiles"
-					"pm_government_run_general_industry"
+					"pm_powered_assembly_lines_industry"
 					"pm_professional_service_industry_no"
 					"pm_no_environmental_tech"
-					"pm_powered_assembly_lines_industry"
+					"pm_privately_owned_general_industry"
 				}
 			}
 			create_building = {
@@ -15251,7 +14826,7 @@
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
 					"pm_professional_service_industry_no"
-					"pm_hereditary_bureaucrats"
+					"pm_professional_bureaucrats"
 				}
 			}
 			create_building = {
