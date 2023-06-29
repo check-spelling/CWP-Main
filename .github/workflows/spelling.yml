@@ -34,6 +34,7 @@ name: Check Spelling
 #   For background, see: https://github.com/check-spelling/check-spelling/wiki/Feature:-Update-with-deploy-key
 
 on:
+  push:
   pull_request_target:
     branches:
       - "**"
@@ -60,7 +61,10 @@ jobs:
       fail-fast: false
       matrix:
         category: ["other", "yml"]
-    if: contains(github.event_name, 'pull_request')
+    if: ${{
+        github.event_name == 'push' ||
+        contains(github.event_name, 'pull_request')
+      }}
     concurrency:
       group: spelling-${{matrix.category}}-${{ github.event.pull_request.number || github.ref }}
       # note: If you use only_check_changed_files, you do not want cancel-in-progress
