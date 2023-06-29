@@ -1036,6 +1036,7 @@ czecho
 czh
 Dabaa
 dacal
+dacals
 Daegu
 DAGESTAN
 Dagestan
@@ -1091,6 +1092,7 @@ defaut
 defcon
 defibrillators
 defund
+defunded
 Deguise
 Degy
 DEIR
@@ -1181,6 +1183,7 @@ Djiboutian
 Djougou
 dla
 dlc
+dlcs
 dna
 Dnipro
 DNK
@@ -1539,6 +1542,7 @@ FRIESLAND
 Froilan
 Frontin
 frontline
+frontlines
 Frosinone
 Fructuoso
 Fruto
@@ -1886,6 +1890,7 @@ haratin
 hardangerfjorden
 Hardcastle
 hardliner
+hardliners
 hardstuck
 Harispe
 Harquet
@@ -3443,6 +3448,7 @@ Omalius
 oman
 omotic
 onaction
+onactions
 onclicks
 Ondangwa
 ondefault
@@ -3649,6 +3655,7 @@ Picos
 Piddington
 PIECHART
 piechart
+piecharts
 piechartsize
 Pieck
 Piedmontian
@@ -3689,7 +3696,9 @@ Plumptre
 Plunket
 Plusquellec
 pmc
+pmcs
 pmg
+PMGs
 pms
 PNI
 pnm
@@ -4098,6 +4107,7 @@ Saurimo
 Sauvage
 Savegame
 savegame
+savegames
 Savi
 Savoia
 Savusavu
@@ -4314,6 +4324,7 @@ SLOVENIA
 SLV
 smartboards
 smartphone
+smartphones
 Smederevo
 Smet
 smet
@@ -5107,6 +5118,7 @@ Yasuj
 Yatsen
 Yeamans
 yeet
+yeeted
 yeeter
 Yehoshua
 Yehudah
