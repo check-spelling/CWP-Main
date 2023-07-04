@@ -1,0 +1,1 @@
+../../spelling/allow/known-typos.txt

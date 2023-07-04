@@ -81,7 +81,7 @@
 \.xz$
 \.zip$
 ^localization/japanese/
-^\.github/actions/spelling/
+^\.github/actions/spelling
 ^\Q.github/reviewers.yml\E$
 ^\Q.github/workflows/spelling.yml\E$
 ^\Qcommon/cultures/cwp_aboriginal_cultures.txt\E$
