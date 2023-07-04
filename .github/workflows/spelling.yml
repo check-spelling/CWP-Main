@@ -68,7 +68,7 @@ jobs:
     steps:
       - name: check-spelling
         id: spelling
-        uses: check-spelling/check-spelling@main
+        uses: check-spelling/check-spelling@prerelease
         with:
           config: .github/actions/spelling-${{matrix.category}}
           report_title_suffix: (${{matrix.category}})
@@ -82,7 +82,7 @@ jobs:
           use_sarif: ${{ (!github.event.pull_request || (github.event.pull_request.head.repo.full_name == github.repository)) && 1 }}
           extra_dictionary_limit: 20
           dictionary_source_prefixes: |
-            {"cspell": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20220816/dictionaries/", "cspell1": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20230509/dictionaries/"}
+           {"cspell": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20230509/dictionaries/", "cspell1": "https://raw.githubusercontent.com/check-spelling/cspell-dicts/v20230509/dictionaries/"}
           extra_dictionaries:
             cspell1:software-terms/dict/softwareTerms.txt
             cspell1:php/dict/php.txt
@@ -106,7 +106,7 @@ jobs:
     if: (success() || failure()) && needs.spelling.outputs.followup && contains(github.event_name, 'pull_request')
     steps:
       - name: comment
-        uses: check-spelling/check-spelling@main
+        uses: check-spelling/check-spelling@prerelease
         with:
           config: .github/actions/spelling-${{matrix.category}}
           report_title_suffix: (${{matrix.category}})
@@ -141,7 +141,7 @@ jobs:
       cancel-in-progress: false
     steps:
       - name: apply spelling updates
-        uses: check-spelling/check-spelling@main
+        uses: check-spelling/check-spelling@prerelease
         with:
           config: .github/actions/spelling-${{matrix.category}}
           report_title_suffix: (${{matrix.category}})
